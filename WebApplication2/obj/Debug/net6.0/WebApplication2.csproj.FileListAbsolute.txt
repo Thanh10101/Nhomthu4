@@ -30,3 +30,4 @@ C:\Users\THANH\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\ref
 C:\Users\THANH\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
 C:\Users\THANH\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
 C:\Users\THANH\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\THANH\source\repos\WebApplication2\WebApplication2\bin\Debug\net6.0\libman.json
